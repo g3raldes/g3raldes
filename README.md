@@ -1,5 +1,5 @@
 # 💫 About Me:
-👋 Welcome to my GitHub profile! I'm currently a second-year student pursuing a degree in Informatics and Computing Engineering at FEUP (Faculty of Engineering, University of Porto). Passionate about software development, I'm constantly learning and exploring new technologies. Here you'll find my projects, contributions, and endeavors in the world of programming. Feel free to explore, collaborate, and connect! Let's build something amazing together. 🚀✨
+👋 Welcome to my GitHub profile! I'm currently a third-year student pursuing a degree in Informatics and Computing Engineering at FEUP (Faculty of Engineering, University of Porto). Passionate about software development, I'm constantly learning and exploring new technologies. Here you'll find my projects, contributions, and endeavors in the world of programming. Feel free to explore, collaborate, and connect! Let's build something amazing together. 🚀✨
 
 
 # 💻 Tech Stack:
